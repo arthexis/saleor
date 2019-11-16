@@ -27,6 +27,7 @@ build/
 coverage/
 dist/
 *\.egg*
+
 # data
 /docs/_build/
 /media/
@@ -39,3 +40,7 @@ webpack-bundle.json
 
 # Exported results file
 django-queries-results.html
+
+# Local
+.env
+/venv/
